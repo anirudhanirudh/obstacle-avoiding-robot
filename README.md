@@ -1,13 +1,13 @@
 # obstacle-avoiding-robot
 An aurdino based robot that detects objects using sensors
 
-##Abstract
+## Abstract
       An aurdino based moving robot with ultrasonic sensor,servo motor,motor driver.This robot detects the obstacles arriving at the front and diverts itself to an another side 
       
-##Application:
+## Application
       This mini project can frame a little part in real time application such as automated driver cars.
       
- ##Compponents Required:
+## Compponents Required
       !.Aurdino UNO
       2.Servo motor
       3.Motor Driver
